@@ -1,0 +1,8 @@
+Fri Oct 23 23:08:33 UTC 2020
+/dev/root                 4.9G      1.6G      3.2G  33% /
+   0 date > /tmp/info.txt
+   1 df -h | grep -w / >> /tmp/info.txt
+   2 history tail -5
+   3 history tail -5 >> /tmp/info.txt
+AuthenticX86
+32
