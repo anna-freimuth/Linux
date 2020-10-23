@@ -1,6 +1,6 @@
 Start
 Sun Oct 11 11:53:05 UTC 2020
-drwxr-xr-x    5 anna     anna           237 Sep 28 12:26 root
+drwxr-xr-x    5 anna     anna           237 Sep 28 12:26 anna
 drwxr-xr-x    4 anna     anna           140 Oct 11 11:46 run
 drwxr-xr-x    2 anna     anna          2363 Aug 17 21:14 sbin
 drwxr-xr-x    2 anna     anna            37 May 29 16:20 srv
